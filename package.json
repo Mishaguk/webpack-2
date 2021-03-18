@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Mishaguk.github.io/sho_za",
+  "homepage": "https://Mishaguk.github.io/webpack",
   "scripts": {
     "start": "webpack-dev-server --env.mode development",
     "build": "webpack --env.mode production",
